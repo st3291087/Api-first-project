@@ -12,4 +12,3 @@
 {"id":12,"name":"d","last_name":"d","email":"a@gmail.com","password":"1dsfdvdfs######"}
 {"id":13,"name":"\\a","last_name":"z\\","email":"a@gmail.com","password":"1adfgh4532@2@@@@@@@@@@@"}
 {"id":14,"name":"\\a","last_name":"z\\","email":"a@gmail.com","password":"1adasdwrswer"}
-

@@ -2,6 +2,9 @@
 
 namespace WebApi
 {
+    //In C#, public properties are written in PascalCase without underscores (Id, Name, LastName, Email, Password).
+    //If you rename them, file.txt still has the old names, so read it with
+    //new JsonSerializerOptions { PropertyNameCaseInsensitive = true }
     public class User
     {
         public int id { get; set; }
@@ -20,6 +23,8 @@ namespace WebApi
 
     }
     
+    //In C#, each class goes in its own file, named after the class. LoginUser is a clearer name,
+    //and the properties can be just Email and Password
     public class LogUsers
     {
         public string logEmail { get; set; }

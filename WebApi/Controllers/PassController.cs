@@ -6,6 +6,7 @@ namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //A full name is clearer than an abbreviation, for example PasswordsController
     public class PassController : ControllerBase
     {
         // GET: api/<PassController>

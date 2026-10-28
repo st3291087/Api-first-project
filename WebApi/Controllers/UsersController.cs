@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
+﻿//fix: Removed "using Microsoft.AspNetCore.Http.HttpResults;" - it was added by mistake and is not used
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Json;
 
@@ -36,7 +36,8 @@ namespace WebApi.Controllers
             return NotFound();
         }
 
-        static string filePath = "file.txt";
+        //fix: The path never changes, so it can be readonly
+        static readonly string filePath = "file.txt";
         // POST api/<UsersController>
         [HttpPost]
         public ActionResult<User> Post([FromBody] User user)
@@ -68,6 +69,7 @@ namespace WebApi.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id, [FromBody] User userToUpdate)
         {
             string textToReplace = string.Empty;
@@ -82,11 +84,15 @@ namespace WebApi.Controllers
                     if (user.id == id)
                     {
                         textToReplace = currentUserInFile;
+                        //fix: Found- break
+                        break;
                     }
                 }
             }
             if (textToReplace != string.Empty)
             {
+                //fix: Keep the id, otherwise the updated user is saved without it
+                userToUpdate.id = id;
                 string text = System.IO.File.ReadAllText(filePath);
                 text = text.Replace(textToReplace,
                 JsonSerializer.Serialize(userToUpdate));
