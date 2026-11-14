@@ -3,6 +3,7 @@ const changedatail = document.querySelector(".changedatail")
 
 
 const user = sessionStorage.getItem("currentUser")
+//In JavaScript, names are written in camelCase: useName
 const use_name = JSON.parse(user).name
 const use_lname = JSON.parse(user).last_name
 const use_email = JSON.parse(user).email

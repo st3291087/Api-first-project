@@ -8,6 +8,7 @@ namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //The assignment asks to split the code into four projects: the API, Entities, Services and Repositories
     public class UsersController : ControllerBase
     {
         // GET: api/<UsersController>
@@ -19,6 +20,7 @@ namespace WebApi.Controllers
 
         // GET api/<UsersController>/5
         [HttpGet("{id}")]
+        //Question: the app answers 500 to the requests that read the file. Does file.txt have empty lines? JsonSerializer.Deserialize throws on an empty line.
         public ActionResult<User> Get(int id)
         {
 
@@ -87,6 +89,8 @@ namespace WebApi.Controllers
             }
             if (textToReplace != string.Empty)
             {
+                //fix: keep the id of the user when updating, so the saved line keeps it
+                userToUpdate.id = id;
                 string text = System.IO.File.ReadAllText(filePath);
                 text = text.Replace(textToReplace,
                 JsonSerializer.Serialize(userToUpdate));

@@ -4,6 +4,7 @@ namespace WebApi
 {
     public class User
     {
+        //In C#, public properties are written in PascalCase (Id). Do not rename them: the stored data uses lowercase names. Tip: PropertyNameCaseInsensitive = true in the JSON options keeps the names.
         public int id { get; set; }
         [Required]
         public string name { get; set; }

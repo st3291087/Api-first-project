@@ -86,6 +86,7 @@ const ValidPass = async () => {
 
     const password = document.querySelector("#password").value;
     const progress = document.querySelector("#prog")
+    //name, last_name and email are not defined in ValidPass: where do they come from?
     const user = {
         name,
         last_name,
