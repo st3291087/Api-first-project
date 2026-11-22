@@ -1,8 +1,8 @@
+C:\Users\8855\Desktop\web-api\WebApi\wwwroot\Home.html
+C:\Users\8855\Desktop\web-api\WebApi\wwwroot\UsairDetails.html
+C:\Users\8855\Desktop\web-api\WebApi\wwwroot\Home.js
+C:\Users\8855\Desktop\web-api\WebApi\wwwroot\UserDetails.js
 wwwroot\Home.html
+wwwroot\Home.js
 wwwroot\UsairDetails.html
 wwwroot\UserDetails.js
-wwwroot\Home.js
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\Home.html
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\UsairDetails.html
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\UserDetails.js
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\Home.js

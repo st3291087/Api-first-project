@@ -1,37 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\8855\\Desktop\\WebApi\\",
+  "WorkspaceRootPath": "C:\\Users\\8855\\Desktop\\web-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\file.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|c:\\users\\8855\\desktop\\web-api\\entity\\models\\project_apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|solutionrelative:entity\\models\\project_apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{73006C77-4CFC-4696-9BF3-8701394767D9}|Repository\\Repository.csproj|c:\\users\\8855\\desktop\\web-api\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73006C77-4CFC-4696-9BF3-8701394767D9}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\wwwroot\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|c:\\users\\8855\\desktop\\web-api\\entity\\loguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|solutionrelative:entity\\loguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\controllers\\passcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\controllers\\passcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\passcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|c:\\users\\8855\\desktop\\web-api\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD33CAF4-41E5-4A65-9682-A9DA56AB0ECE}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|c:\\users\\8855\\desktop\\web-api\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|solutionrelative:service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|c:\\users\\8855\\desktop\\web-api\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|solutionrelative:service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|c:\\users\\8855\\desktop\\web-api\\service\\passservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|solutionrelative:service\\passservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\wwwroot\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{73006C77-4CFC-4696-9BF3-8701394767D9}|Repository\\Repository.csproj|c:\\users\\8855\\desktop\\web-api\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73006C77-4CFC-4696-9BF3-8701394767D9}|Repository\\Repository.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\webapi\\webapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\wwwroot\\userdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\wwwroot\\userdetails.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|J:\\handesaim40-4\\\u05D0\u05E1\u05EA\u05D9 \u05D8\u05D5\u05DC\u05D9\u05D3\u05E0\u05D5\\MyWebApi\\wwwroot\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|c:\\users\\8855\\desktop\\web-api\\webapi\\wwwroot\\usairdetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebApi\\WebApi.csproj|solutionrelative:webapi\\wwwroot\\usairdetails.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|c:\\users\\8855\\desktop\\web-api\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B130A993-EBEF-4AD9-AE40-A8AD3D2C2C13}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,128 +74,203 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PassController.cs",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\Controllers\\PassController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\PassController.cs",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\Controllers\\PassController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\PassController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-02T15:41:38.433Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project_APIContext.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\Models\\Project_APIContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Project_APIContext.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\Models\\Project_APIContext.cs",
+              "RelativeToolTip": "Entity\\Models\\Project_APIContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T17:33:18.026Z",
+              "WhenOpened": "2026-11-18T19:29:17.382Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PassService.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Service\\PassService.cs",
+              "RelativeDocumentMoniker": "Service\\PassService.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Service\\PassService.cs",
+              "RelativeToolTip": "Service\\PassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:06:34.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T09:59:59.804Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "WebApi",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\WebApi.csproj",
-              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\WebApi.csproj",
-              "RelativeToolTip": "WebApi\\WebApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-25T16:44:55.441Z",
-              "EditorCaption": ""
+              "Title": "PassController.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Controllers\\PassController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PassController.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Controllers\\PassController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PassController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:04:44.089Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Home.html",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\wwwroot\\Home.html",
-              "RelativeDocumentMoniker": "WebApi\\wwwroot\\Home.html",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\wwwroot\\Home.html",
-              "RelativeToolTip": "WebApi\\wwwroot\\Home.html",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-10-18T10:04:34.067Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T16:57:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "loguser.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\loguser.cs",
+              "RelativeDocumentMoniker": "Entity\\loguser.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Entity\\loguser.cs",
+              "RelativeToolTip": "Entity\\loguser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T18:16:28.194Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T09:59:59.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Home.js",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\wwwroot\\Home.js",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\Home.js",
               "RelativeDocumentMoniker": "WebApi\\wwwroot\\Home.js",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\wwwroot\\Home.js",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\Home.js",
               "RelativeToolTip": "WebApi\\wwwroot\\Home.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-10-18T10:04:25.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "file.txt",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\file.txt",
-              "RelativeDocumentMoniker": "WebApi\\file.txt",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\file.txt",
-              "RelativeToolTip": "WebApi\\file.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-10-18T10:04:08.859Z",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\UserRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:53:20.681Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\User.cs",
-              "RelativeDocumentMoniker": "WebApi\\User.cs",
-              "ToolTip": "C:\\Users\\8855\\Desktop\\WebApi\\WebApi\\User.cs",
-              "RelativeToolTip": "WebApi\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\IUserService.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Service\\IUserService.cs",
+              "RelativeToolTip": "Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T08:14:45.329Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "c696ced6-4951-4da9-8945-76158f59c8a4",
-        "Display": 0,
-        "X": 580,
-        "Y": 148,
-        "Width": 1578,
-        "Height": 787,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
+              "WhenOpened": "2026-11-04T17:00:21.899Z"
+            },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "user.js",
-              "DocumentMoniker": "J:\\handesaim40-4\\\u05D0\u05E1\u05EA\u05D9 \u05D8\u05D5\u05DC\u05D9\u05D3\u05E0\u05D5\\MyWebApi\\wwwroot\\user.js",
-              "ToolTip": "J:\\handesaim40-4\\\u05D0\u05E1\u05EA\u05D9 \u05D8\u05D5\u05DC\u05D9\u05D3\u05E0\u05D5\\MyWebApi\\wwwroot\\user.js",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:54:11.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDetails.js",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\UserDetails.js",
+              "RelativeDocumentMoniker": "WebApi\\wwwroot\\UserDetails.js",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\UserDetails.js",
+              "RelativeToolTip": "WebApi\\wwwroot\\UserDetails.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-18T12:55:56.157Z"
+              "WhenOpened": "2026-11-02T16:54:20.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.html",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\Home.html",
+              "RelativeDocumentMoniker": "WebApi\\wwwroot\\Home.html",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\Home.html",
+              "RelativeToolTip": "WebApi\\wwwroot\\Home.html",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-02T10:46:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T18:25:21.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsairDetails.html",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\UsairDetails.html",
+              "RelativeDocumentMoniker": "WebApi\\wwwroot\\UsairDetails.html",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\WebApi\\wwwroot\\UsairDetails.html",
+              "RelativeToolTip": "WebApi\\wwwroot\\UsairDetails.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-02T16:52:57.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\8855\\Desktop\\web-api\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\8855\\Desktop\\web-api\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T16:52:27.817Z"
             }
           ]
         }

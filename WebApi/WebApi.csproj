@@ -10,4 +10,10 @@
     <PackageReference Include="zxcvbn-core" Version="7.0.92" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entity.csproj" />
+    <ProjectReference Include="..\Repository\Repository.csproj" />
+    <ProjectReference Include="..\Service\Service.csproj" />
+  </ItemGroup>
+
 </Project>

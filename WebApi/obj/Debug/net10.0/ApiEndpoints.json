@@ -33,17 +33,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "WebApi.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "WebApi.Controllers.PassController",
@@ -134,17 +124,7 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "WebApi.User",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "WebApi.Controllers.UsersController",
@@ -176,13 +156,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "WebApi.User",
+        "Type": "Entity.Models.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebApi.User",
+        "Type": "Entity.Models.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -208,7 +188,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "WebApi.User",
+        "Type": "Entity.Models.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -233,17 +213,11 @@
       },
       {
         "Name": "userToUpdate",
-        "Type": "WebApi.User",
+        "Type": "Entity.Models.User",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "WebApi.Controllers.UsersController",
@@ -277,13 +251,13 @@
     "Parameters": [
       {
         "Name": "loginDetails",
-        "Type": "WebApi.LogUsers",
+        "Type": "Entity.loguser",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebApi.User",
+        "Type": "Entity.Models.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
