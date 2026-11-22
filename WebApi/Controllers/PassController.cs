@@ -29,6 +29,7 @@ namespace WebApi.Controllers
         [HttpPost("ValidPass")]
         public ActionResult<User> Post([FromBody] string pass)
         {
+            //The assignment asks the password controller to use the password service's interface: where is that service, and where do you call it?
             int s = Zxcvbn.Core.EvaluatePassword(pass).Score;
             return Ok(s);
         }

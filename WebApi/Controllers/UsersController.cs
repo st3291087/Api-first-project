@@ -8,6 +8,7 @@ namespace WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    //The assignment asks to split the code into four projects: the API, Entities, Services and Repositories
     public class UsersController : ControllerBase
     {
         // GET: api/<UsersController>
@@ -29,6 +30,7 @@ namespace WebApi.Controllers
                 {
                     User user =
                     JsonSerializer.Deserialize<User>(currentUserInFile);
+                    //Why 500? file.txt ends with empty lines, and Deserialize fails on an empty line: check the lines of file.txt
                     if (user.id == id)
                         return Ok(user);
                 }
@@ -39,6 +41,7 @@ namespace WebApi.Controllers
         static string filePath = "file.txt";
         // POST api/<UsersController>
         [HttpPost]
+        //The assignment asks POST to return 400 for a weak password (score below 3): where do you call the password check here? Which service would you use?
         public ActionResult<User> Post([FromBody] User user)
         {
             int numberOfUsers = System.IO.File.ReadLines(filePath).Count();
@@ -68,8 +71,10 @@ namespace WebApi.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id, [FromBody] User userToUpdate)
         {
+            //The assignment asks PUT to return 400 for a weak password (score below 3): where do you check the strength here? The password service is not written yet
             string textToReplace = string.Empty;
             using (StreamReader reader =
             System.IO.File.OpenText(filePath))
@@ -82,11 +87,15 @@ namespace WebApi.Controllers
                     if (user.id == id)
                     {
                         textToReplace = currentUserInFile;
+                        //fix: Added break, the loop stops once the user is found
+                        break;
                     }
                 }
             }
             if (textToReplace != string.Empty)
             {
+                //fix: Set the id of the new details, so the user keeps its id
+                userToUpdate.id = id;
                 string text = System.IO.File.ReadAllText(filePath);
                 text = text.Replace(textToReplace,
                 JsonSerializer.Serialize(userToUpdate));
