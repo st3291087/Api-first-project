@@ -69,6 +69,7 @@ async function Login(){
     
              const currentUser = await response.json();
              sessionStorage.setItem("currentUser", JSON.stringify(currentUser))
+             //The page name UsairDetails.html is misspelled (UserDetails.html?): change the file name and the link too
              window.location.href="UsairDetails.html"
         
             
