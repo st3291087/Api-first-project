@@ -22,7 +22,7 @@
       "launchUrl": "Home.html",
 
       "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
+        "ASPNETCORE_ENVIRONMENT": "School"
       }
     }
   },

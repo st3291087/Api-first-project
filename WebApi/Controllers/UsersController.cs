@@ -14,14 +14,23 @@ namespace WebApi.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
+
     public class UsersController : ControllerBase
     {
         // GET: api/<UsersController>
         IUserService userService;
-        public UsersController(IUserService userService)
+        IPassService passService;
+        IConfiguration configuration;
+        private readonly ILogger<UsersController> logger;
+        public UsersController(IUserService userService, IConfiguration configuration, ILogger<UsersController> logger)
         {
             this.userService = userService;
+            this.passService = passService;
+            this.configuration = configuration;
+            this.logger = logger;
+            logger.LogInformation("user enter");
         }
+       
 
         [HttpGet]
         public IEnumerable<string> Get()
@@ -48,6 +57,11 @@ namespace WebApi.Controllers
         [HttpPost]
         public async Task<ActionResult<User>> Post([FromBody] User user)
         {
+            logger.LogInformation($"new user singing-\n his name: {user.FirstName} {user.LastName}, his email: {user.Email}, his password: {user.Password}");
+            int StrengthOfPassword = passService.Post(user.Password);
+            if (StrengthOfPassword < configuration.GetValue<int>("PasswordString", 3))
+                return BadRequest();
+
             await userService.Post(user);
 
             return CreatedAtAction(nameof(Get), new {id=user.Id},user);
@@ -66,7 +80,6 @@ namespace WebApi.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult> Put(int id, [FromBody] User userToUpdate)
         {
-            PassService passService = new PassService();
 
             int strenghOfPassword = passService.Post(userToUpdate.Password);
             if (strenghOfPassword < 3)

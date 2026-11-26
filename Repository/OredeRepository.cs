@@ -19,9 +19,9 @@ namespace Repository
             await _dbContext.SaveChangesAsync();
             return order;
         }
-        public async Task<Order> Get(int id)
+        public async Task<Order> Get(int OrderId)
         {
-            return await _dbContext.Orders.FindAsync();
+            return await _dbContext.Orders.FindAsync(OrderId);
         }
     }
 }

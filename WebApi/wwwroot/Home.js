@@ -1,48 +1,51 @@
-﻿   
+﻿const progress = document.querySelector("#prog")
+
 const PostData = async () => {
 
-  try{
-      await ValidPass()
-        const progress = document.querySelector("#prog").value
-    // if (progress < 3) { return; }
-  
       const FirstName = document.querySelector("#name").value
       const LastName = document.querySelector("#last_name").value
       const Email = document.querySelector("#email").value
       const Password = document.querySelector("#password").value
 
-    const user =  {
-        FirstName,
-        LastName,
-        Email,
-        Password
+      const user = {
+          FirstName,
+          LastName,
+          Email,
+          Password
 
-    }
-
-        const response = await fetch('api/Users', {
-            method: 'POST',
-            headers: {
-
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify(user)
-        });
+      };
+      try {
        
+          if (progress.value < 3) {
+              throw Error("you can't sign in. you have problem with your password")
+          }
+          else {
+              const response = await fetch('api/Users', {
+                  method: 'POST',
+                  headers: {
 
-        if (response.ok) {
-            const userResponse = await response.json();
-            alert("your sign is succesed")
-        }
-        else {
-            throw Error("your sign is failed")
-        }
+                      'Content-Type': 'application/json'
+                  },
+                  body: JSON.stringify(user)
+              }
+              );
+
+
+              if (response.ok) {
+                  const userResponse = await response.json();
+                  alert("your sign was succesed")
+              }
+              else {
+                  throw Error("your sign was failed")
+              }
+          }
     }
     catch (e) {
-        alert(e)
+        alert(e.message);
   
 
     }
-}
+      };
 async function Login(){
    const email = document.querySelector("#log_email").value
     const password =  document.querySelector("#log_password").value
@@ -84,14 +87,14 @@ async function Login(){
 const ValidPass = async () => {
 
     const password = document.querySelector("#password").value;
-    const progress = document.querySelector("#prog")
-    const user = {
-        name,
-        last_name,
-        email,
-        password
+    //const progress = document.querySelector("#prog")
+    //const user = {
+    //    name,
+    //    last_name,
+    //    email,
+    //    password
 
-    }
+    //}
     try {
         const response = await fetch('api/Pass', {
             method: 'POST',
@@ -108,7 +111,7 @@ const ValidPass = async () => {
             progress.value = userResponse
          
            
-            if (userResponse < 3) {
+            if (userResponse < 2) {
 
                 alert("your password is weak")
             }

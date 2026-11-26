@@ -1,5 +1,6 @@
 using Entity.Models;
 using Microsoft.EntityFrameworkCore;
+using NLog.Web;
 using Repository;
 using Service;
 
@@ -19,15 +20,15 @@ builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
 builder.Services.AddTransient<IOrderService, OrderService>();
 builder.Services.AddTransient<IOredeRepository, OredeRepository>();
 builder.Services.AddTransient<IProductService, ProductService>();
+builder.Host.UseNLog();
 
-
-builder.Services.AddDbContext<Project_APIContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("\"Data Source=srv2\\\\pupils;Initial Catalog=Project_API;Integrated Security=True;Trust Server Certificate=True\"")));
+builder.Services.AddDbContext<Project_APIContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("school")), ServiceLifetime.Transient);
 
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+if (app.Environment.IsDevelopment()|| app.Environment.IsEnvironment("School"))
 {
     app.MapOpenApi();
     app.UseSwaggerUI(options =>

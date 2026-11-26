@@ -27,86 +27,71 @@ public partial class Project_APIContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=srv2\\pupils;Initial Catalog=Project_API;Integrated Security=True;Trust Server Certificate=True");
+//    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
+//        => optionsBuilder.UseSqlServer("Data Source=srv2\\pupils;Initial Catalog=MyStoreDB1;Integrated Security=True;Trust Server Certificate=True");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Category>(entity =>
         {
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.CategoryName)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("category_name");
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.CategoryName).IsRequired();
         });
 
         modelBuilder.Entity<Order>(entity =>
         {
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.OrderDate).HasColumnName("order_date");
-            entity.Property(e => e.OrderSum).HasColumnName("order_sum");
-            entity.Property(e => e.UserId).HasColumnName("user_id");
+            entity.Property(e => e.Id)
+                .ValueGeneratedNever()
+                .HasColumnName("ID");
+            entity.Property(e => e.OrderDate).HasColumnType("datetime");
+            entity.Property(e => e.UserId).HasColumnName("UserID");
+
+            entity.HasOne(d => d.User).WithMany(p => p.Orders)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Orders_Users");
         });
 
         modelBuilder.Entity<OrderItem>(entity =>
         {
-            entity.ToTable("order_item");
-
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.OrderId).HasColumnName("order_id");
-            entity.Property(e => e.ProductId).HasColumnName("product_id");
-            entity.Property(e => e.Quantity).HasColumnName("quantity");
+            entity.Property(e => e.OrderItemId)
+                .ValueGeneratedNever()
+                .HasColumnName("OrderItemID");
+            entity.Property(e => e.OrderId).HasColumnName("OrderID");
+            entity.Property(e => e.ProductId).HasColumnName("ProductID");
 
             entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
                 .HasForeignKey(d => d.OrderId)
-                .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK_order_item_Orders");
+                .HasConstraintName("FK_OrderItems_Orders");
+
+            entity.HasOne(d => d.Product).WithMany(p => p.OrderItems)
+                .HasForeignKey(d => d.ProductId)
+                .HasConstraintName("FK_OrderItems_Products");
         });
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.ToTable("Product");
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.CategoryId).HasColumnName("CategoryID");
+            entity.Property(e => e.Description).IsRequired();
+            entity.Property(e => e.ImageName).IsRequired();
+            entity.Property(e => e.Price).HasColumnType("money");
+            entity.Property(e => e.ProductName).IsRequired();
 
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.CategoryId)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("category_id");
-            entity.Property(e => e.Description)
-                .IsRequired()
-                .HasColumnName("description");
-            entity.Property(e => e.ImageUrl)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("image_url");
-            entity.Property(e => e.Price).HasColumnName("price");
-            entity.Property(e => e.ProductName)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("product_name");
+            entity.HasOne(d => d.Category).WithMany(p => p.Products)
+                .HasForeignKey(d => d.CategoryId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Products_Categories");
         });
 
         modelBuilder.Entity<User>(entity =>
         {
-            entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.Email)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("email");
-            entity.Property(e => e.FirstName)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("first_name");
-            entity.Property(e => e.LastName)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("last_name");
-            entity.Property(e => e.Password)
-                .IsRequired()
-                .HasMaxLength(50)
-                .HasColumnName("password");
+            entity.Property(e => e.Id).HasColumnName("ID");
+            entity.Property(e => e.Email).IsRequired();
+            entity.Property(e => e.FirstName).IsRequired();
+            entity.Property(e => e.LastName).IsRequired();
+            entity.Property(e => e.Password).IsRequired();
         });
 
         OnModelCreatingPartial(modelBuilder);

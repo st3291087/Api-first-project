@@ -2,6 +2,7 @@
 using Entity.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Repository;
 using Service;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -15,16 +16,19 @@ namespace WebApi.Controllers
     public class ProductsControllers : ControllerBase
     {
         IProductService productService;
-        public ProductsControllers(IUserService userService)
+        public ProductsControllers(IProductService productService)
         {
             this.productService = productService;
         }
         // GET: api/<ProductsControllers>
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Product>>> Get(Product product)
+
+        
+        public async Task<ActionResult<(List<Product> Items, int TotalCount)>> Get([FromQuery]int positon, int skip, string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
         {
-            IEnumerable<Product> products = await productService.Get();
-            if (products != null)
+            (List<Product> Items, int TotalCount) products = await productService.Get(positon, skip, desc, minPrice, maxPrice, categoryIds);
+          
+            if (products.Items != null)
                 return Ok(products);
             else 
                 return NotFound();

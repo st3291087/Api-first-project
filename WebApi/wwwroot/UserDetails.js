@@ -1,4 +1,5 @@
-﻿const title = document.querySelector(".title")
+﻿const progress = document.querySelector("progress")
+const title = document.querySelector(".title")
 const changedatail = document.querySelector(".changedatail")
 
 
@@ -13,8 +14,8 @@ title.textContent = "Hi   " + use_name
 
 const changedatails = () => {
     changedatail.style.display = "block"
-    const name3 = document.querySelector("#name")
-    const last_name3 = document.querySelector("#last_name")
+    const name3 = document.querySelector("#firstName")
+    const last_name3 = document.querySelector("#lastName")
     const email3 = document.querySelector("#email")
     const password3 = document.querySelector("#password")
 
@@ -27,22 +28,18 @@ const changedatails = () => {
     
 }
 const Put = async () => {
-    // ValidPass()
-    // const progress = document.querySelector("#prog").value
-    // if (progress < 3) {
-    //     throw ("your sign is failed")
-    //     return;
-    // }
-    const name = document.querySelector("#name").value
-    const last_name = document.querySelector("#last_name").value
+  
+    const name = document.querySelector("#firstName").value
+    const last_name = document.querySelector("#lastName").value
     const email = document.querySelector("#email").value
     const password = document.querySelector("#password").value
     const user = {
+        id:id,
         name,
         last_name,
         email,
         password
-        ,id
+      
 
     }
     try {
@@ -55,7 +52,15 @@ const Put = async () => {
             body: JSON.stringify(user)
         });
       
+        if (response.ok) {
 
+            alert("you changes are succside")
+
+        }
+        else {
+            throw Error("your changes was failed");
+
+        }
        
     }
     catch (e) {
@@ -64,50 +69,44 @@ const Put = async () => {
 
     }
 }
-// const ValidPass = async () => {
+ const ValidPass = async () => {
 
-//     const password = document.querySelector("#password").value;
-//     const progress = document.querySelector("#prog")
-//     const user = {
-//         name,
-//         last_name,
-//         email,
-//         password
+     const password = document.querySelector("#password").value;
+     //const progress = document.querySelector("#prog")
 
-//     }
-//     try {
-//         const response = await fetch('api/Pass', {
-//             method: 'POST',
-//             headers: {
+     try {
+         const response = await fetch('api/Pass', {
+             method: 'POST',
+             headers: {
 
-//                 'Content-Type': 'application/json'
-//             },
-//             body: JSON.stringify(password)
-//         });
+                 'Content-Type': 'application/json'
+             },
+             body: JSON.stringify(password)
+         });
 
 
-//         if (response.ok) {
-//             const userResponse = await response.json();
-//             progress.value = userResponse
+         if (response.ok) {
+             const userResponse = await response.json();
+             progress.value = userResponse
 
 
-//             if (userResponse < 3) {
+             if (userResponse < 2) {
 
-//                 alert("your password is weak")
-//             }
-//             else {
-//                 alert("your password is good")
-//             }
-//         }
-//         else {
-//             throw Error("your sign is failed")
-//         }
-
-
-//     }
-//     catch (e) {
-//         alert(e)
+                 alert("your password is weak")
+             }
+             else {
+                 alert("your password is good")
+             }
+         }
+         else {
+             throw Error("your sign is failed")
+         }
 
 
-//     }
-// }
+     }
+     catch (e) {
+         alert(e.message)
+
+
+     }
+ }

@@ -2,7 +2,7 @@
 #nullable disable
 using System;
 using System.Collections.Generic;
-
+using System.Text.Json.Serialization;
 namespace Entity.Models;
 
 public partial class Product
@@ -11,11 +11,16 @@ public partial class Product
 
     public string ProductName { get; set; }
 
-    public string CategoryId { get; set; }
+    public int CategoryId { get; set; }
 
-    public int Price { get; set; }
+    public decimal Price { get; set; }
 
     public string Description { get; set; }
 
-    public string ImageUrl { get; set; }
+    public string ImageName { get; set; }
+
+    public virtual Category Category { get; set; }
+    [JsonIgnore]
+
+    public virtual ICollection<OrderItem> OrderItems { get; set; } = new List<OrderItem>();
 }

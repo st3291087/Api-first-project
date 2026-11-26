@@ -13,10 +13,11 @@ namespace Service
         {
             this.ProductRepository = ProductRepository;
         }
-        public async Task<IEnumerable<Product>> Get()
+      
+        public async Task<(List<Product> Items, int TotalCount)> Get(int positon, int skip, string? desc, int? minPrice, int? maxPrice, int?[] categoryIds)
         {
 
-            return await ProductRepository.Get();
+            return await ProductRepository.Get( positon,skip,desc, minPrice,  maxPrice,  categoryIds);
         }
     }
 }

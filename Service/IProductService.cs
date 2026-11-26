@@ -4,6 +4,6 @@ namespace Service
 {
     public interface IProductService
     {
-        Task<IEnumerable<Product>> Get();
+        Task<(List<Product> Items, int TotalCount)> Get(int positon, int skip, string? desc, int? minPrice, int? maxPrice, int?[] categoryIds);
     }
 }

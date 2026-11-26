@@ -11,8 +11,7 @@ namespace Repository
 {
     public class UserRepository : IUserRepository
     {
-        //static string filePath = "C:\\Users\\8855\\Desktop\\WebApi -new\\Repository\\file.txt";
-
+       
         Project_APIContext _dbContext;
         public UserRepository(Project_APIContext dbContext)
         {

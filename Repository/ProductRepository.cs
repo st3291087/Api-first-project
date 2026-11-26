@@ -14,11 +14,25 @@ namespace Repository
         {
             _dbContext = dbContext;
         }
-        public async Task<IEnumerable<Product>> Get()
+        public async Task<(List<Product> Items, int TotalCount)> Get(int positon=1,int skip=10,string? desc,int? minPrice,int? maxPrice,int?[] categoryIds)
         {
+            var query = _dbContext.Products.Where(Product =>
+            (desc == null ? (true) : (Product.Description.Contains(desc)))
+            && ((minPrice == null) ? (true) : (Product.Price >= minPrice))
+            && ((maxPrice == null) ? (true) : (Product.Price <= maxPrice))
+             && ((categoryIds.Length == 0) ? (true) : (categoryIds.Contains(Product.CategoryId))))
+                .OrderBy(Product => Product.Price);
+            
+            List<Product> products = await query.Skip((positon - 1) * skip)
+                .Take(skip).Include(product => product.Category).ToListAsync();
+            var total = await query.CountAsync();
 
-            return await _dbContext.Products.ToListAsync();
+            return (products, total);
+        }
+        
+
+            
         }
         
     }
-}
+
