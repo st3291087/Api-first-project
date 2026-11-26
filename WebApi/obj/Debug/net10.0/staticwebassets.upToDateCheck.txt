@@ -1,8 +1,0 @@
-wwwroot\Home.html
-wwwroot\UsairDetails.html
-wwwroot\UserDetails.js
-wwwroot\Home.js
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\Home.html
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\UsairDetails.html
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\UserDetails.js
-C:\Users\8855\Desktop\WebApi\WebApi\wwwroot\Home.js
