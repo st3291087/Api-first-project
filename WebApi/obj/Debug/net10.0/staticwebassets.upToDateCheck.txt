@@ -1,8 +1,0 @@
-C:\Users\8855\Desktop\18-11-2026\WebApi\wwwroot\Home.html
-C:\Users\8855\Desktop\18-11-2026\WebApi\wwwroot\UsairDetails.html
-C:\Users\8855\Desktop\18-11-2026\WebApi\wwwroot\Home.js
-C:\Users\8855\Desktop\18-11-2026\WebApi\wwwroot\UserDetails.js
-wwwroot\Home.html
-wwwroot\Home.js
-wwwroot\UsairDetails.html
-wwwroot\UserDetails.js
