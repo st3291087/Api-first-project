@@ -1,4 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Entity;
+using Repository;
+using Service;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -8,6 +11,11 @@ namespace WebApi.Controllers
     [ApiController]
     public class PassController : ControllerBase
     {
+        IPassService passService;
+        public PassController(IPassService passService)
+        {
+            this.passService = passService;
+        }
         // GET: api/<PassController>
         [HttpGet]
         public IEnumerable<string> Get()
@@ -27,10 +35,9 @@ namespace WebApi.Controllers
       
 
         [HttpPost("ValidPass")]
-        public ActionResult<User> Post([FromBody] string pass)
+        public IActionResult Post([FromBody] string pass)
         {
-            int s = Zxcvbn.Core.EvaluatePassword(pass).Score;
-            return Ok(s);
+            return Ok(passService.Post(pass));
         }
         // PUT api/<PassController>/5
         [HttpPut("{id}")]

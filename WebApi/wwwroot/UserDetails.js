@@ -27,6 +27,12 @@ const changedatails = () => {
     
 }
 const Put = async () => {
+    // ValidPass()
+    // const progress = document.querySelector("#prog").value
+    // if (progress < 3) {
+    //     throw ("your sign is failed")
+    //     return;
+    // }
     const name = document.querySelector("#name").value
     const last_name = document.querySelector("#last_name").value
     const email = document.querySelector("#email").value
@@ -36,6 +42,7 @@ const Put = async () => {
         last_name,
         email,
         password
+        ,id
 
     }
     try {
@@ -57,3 +64,50 @@ const Put = async () => {
 
     }
 }
+// const ValidPass = async () => {
+
+//     const password = document.querySelector("#password").value;
+//     const progress = document.querySelector("#prog")
+//     const user = {
+//         name,
+//         last_name,
+//         email,
+//         password
+
+//     }
+//     try {
+//         const response = await fetch('api/Pass', {
+//             method: 'POST',
+//             headers: {
+
+//                 'Content-Type': 'application/json'
+//             },
+//             body: JSON.stringify(password)
+//         });
+
+
+//         if (response.ok) {
+//             const userResponse = await response.json();
+//             progress.value = userResponse
+
+
+//             if (userResponse < 3) {
+
+//                 alert("your password is weak")
+//             }
+//             else {
+//                 alert("your password is good")
+//             }
+//         }
+//         else {
+//             throw Error("your sign is failed")
+//         }
+
+
+//     }
+//     catch (e) {
+//         alert(e)
+
+
+//     }
+// }

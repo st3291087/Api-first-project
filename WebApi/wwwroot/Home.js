@@ -1,25 +1,24 @@
 ﻿   
 const PostData = async () => {
 
-  
-        ValidPass()
+  try{
+      await ValidPass()
         const progress = document.querySelector("#prog").value
-    if (progress < 3)
-        return;
+    // if (progress < 3) { return; }
   
-    const name = document.querySelector("#name").value
-    const last_name = document.querySelector("#last_name").value
-    const email = document.querySelector("#email").value
-    const password = document.querySelector("#password").value
+      const FirstName = document.querySelector("#name").value
+      const LastName = document.querySelector("#last_name").value
+      const Email = document.querySelector("#email").value
+      const Password = document.querySelector("#password").value
 
     const user =  {
-        name,
-        last_name,
-        email,
-        password
+        FirstName,
+        LastName,
+        Email,
+        Password
 
     }
-    try {
+
         const response = await fetch('api/Users', {
             method: 'POST',
             headers: {
@@ -28,10 +27,10 @@ const PostData = async () => {
             },
             body: JSON.stringify(user)
         });
-        const userResponse = await response.json();
+       
 
         if (response.ok) {
-        
+            const userResponse = await response.json();
             alert("your sign is succesed")
         }
         else {
@@ -50,8 +49,8 @@ async function Login(){
 
     const user = {
 
-        logEmail: email,
-        logPassword: password
+       email,
+       password
 
     }   
      try {
@@ -113,9 +112,7 @@ const ValidPass = async () => {
 
                 alert("your password is weak")
             }
-            else {
-                alert("your password is good")
-            }
+           
         }
         else {
             throw Error("your sign is failed")

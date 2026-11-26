@@ -135,3 +135,329 @@ C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
 C:\Users\8855\Desktop\WebApi\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-erxr8dctfl-erxr8dctfl.gz
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.dll
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.pdb
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.exe
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.deps.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.dll
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.pdb
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Entity.dll
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Repository.dll
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Service.dll
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Entity.pdb
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Repository.pdb
+E:\מסלול\יד\WebApi -new\WebApi\bin\Debug\net10.0\Service.pdb
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-erxr8dctfl-erxr8dctfl.gz
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-zcmvnuxm9m-zcmvnuxm9m.gz
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-emg8rtg2ot-emg8rtg2ot.gz
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+E:\מסלול\יד\WebApi -new\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.exe
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.deps.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Entity.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Repository.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Service.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Entity.pdb
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Repository.pdb
+C:\Users\8855\Desktop\WebApi -new\WebApi\bin\Debug\net10.0\Service.pdb
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-7uvwgsxb43-7uvwgsxb43.gz
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.Development.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\appsettings.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.exe
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.deps.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.dll
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\WebApi.pdb
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Entity.dll
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Repository.dll
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Service.dll
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Entity.pdb
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Repository.pdb
+E:\מסלול\WebApi -new\WebApi\bin\Debug\net10.0\Service.pdb
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-7uvwgsxb43-7uvwgsxb43.gz
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-c27u1tjg54-c27u1tjg54.gz
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.dll
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.pdb
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+E:\מסלול\WebApi -new\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-jfsl45j3ki-jfsl45j3ki.gz
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-93eh0fxus8-93eh0fxus8.gz
+C:\Users\8855\Desktop\WebApi -new\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-95t27at7n8-95t27at7n8.gz
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\appsettings.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.exe
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.deps.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Entity.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Repository.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Service.dll
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Entity.pdb
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Repository.pdb
+C:\Users\8855\Desktop\web-api\WebApi\bin\Debug\net10.0\Service.pdb
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-7uvwgsxb43-7uvwgsxb43.gz
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-23o54eh9wa-23o54eh9wa.gz
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\8855\Desktop\web-api\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-9tgaw3gne3-9tgaw3gne3.gz
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\appsettings.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.endpoints.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.staticwebassets.runtime.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.exe
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.deps.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.runtimeconfig.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.Broker.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\zxcvbn-core.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\linux-x64\native\libmsalruntime.so
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\osx-arm64\native\msalruntime_arm64.dylib
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\osx-x64\native\msalruntime.dylib
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Entity.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Repository.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Service.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Entity.pdb
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Repository.pdb
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Service.pdb
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.AssemblyInfo.cs
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.sourcelink.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\compressed\7tluppyqjb-{0}-h4zlkktkk4-h4zlkktkk4.gz
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\compressed\9mhamvexnn-{0}-7uvwgsxb43-7uvwgsxb43.gz
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\compressed\w8suzqs8xw-{0}-23o54eh9wa-23o54eh9wa.gz
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.csproj.Up2Date
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\refint\WebApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.pdb
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.genruntimeconfig.cache
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\ref\WebApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\compressed\rn9dbvcspw-{0}-qj0leiabvg-qj0leiabvg.gz
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\8855\Desktop\18-11-2026\WebApi\obj\Debug\net10.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
